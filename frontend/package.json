@@ -20,7 +20,7 @@
     "@markdoc/markdoc": "0.2.2",
     "@soerenmartius/vue3-clipboard": "0.1.2",
     "@tanstack/table-core": "8.5.22",
-    "@tanstack/vue-table": "8.5.22",
+    "@tanstack/vue-table": "8.9.3",
     "@vueuse/core": "9.4.0",
     "abort-controller-x": "^0.4.2",
     "axios": "1.1.3",
