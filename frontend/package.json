@@ -73,7 +73,7 @@
     "vscode-languageserver-textdocument": "1.0.8",
     "vscode-languageserver-types": "3.17.3",
     "vue": "3.2.47",
-    "vue-i18n": "9.2.2",
+    "vue-i18n": "9.14.3",
     "vue-router": "4.1.6",
     "vuedraggable": "^4.1.0",
     "vueuc": "0.4.51"
