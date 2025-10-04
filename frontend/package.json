@@ -41,7 +41,7 @@
     "js-yaml": "4.1.0",
     "libphonenumber-js": "^1.10.34",
     "lodash-es": "4.17.21",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^13.0.2",
     "maz-ui": "^3.9.0",
     "monaco-editor": "0.34.1",
     "monaco-languageclient": "4.0.1",
